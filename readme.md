@@ -1,4 +1,4 @@
-## Spotify-api based data engineering
+## Spotify
 
 - [X] rds
     - [X] raw query로 rds에 artist 입력
